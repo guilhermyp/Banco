@@ -1,0 +1,16 @@
+Verificar Matricula do Gerente (Matricula automático)
+Ao remover gerente deve se mostrar log da exclusão do gerente e seu nome 
+
+não mostrar como mensagem
+os clientes devem aparecer logo abaixo no menu "Clientes cadastrados"
+
+Adicionar conta para cliente 
+
+
+ao fazer login ele deve ir direto ao menu de opções e não deve apresentar o "opções de cliente", ou "opções de gerente" ou "opções de diretor"
+
+
+ao cliente deve apresentar todas as suas contas com opção para clicar em alguma delas e verificar seu saldo 
+
+
+Adicionar Json
